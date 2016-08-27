@@ -19,3 +19,6 @@
 1. Nailed it.
 2. Get the errors, so we're good.
 3. Had to figure out colon first syntax, now good.
+
+1. line 1 'class ApplicationController < ActionController::Base'
+2. line 1 again 'class ApplicationRecord < ActiveRecord::Base'
