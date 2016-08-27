@@ -15,3 +15,7 @@
 
 1. Messages greater than 140 chars now return an error state.
 2. Id is 'error_explanation'
+
+1. Nailed it.
+2. Get the errors, so we're good.
+3. Had to figure out colon first syntax, now good.
