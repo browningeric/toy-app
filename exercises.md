@@ -9,3 +9,9 @@
 2. users_controller.rb line 67
 3. '/users/edit.html.erb'
 
+1. Id is 'notice'; it disappears on refresh. 
+2. New micropost with no user or content still works fine.
+3. Works fine to post with >140 characters.
+
+1. Messages greater than 140 chars now return an error state.
+2. Id is 'error_explanation'
